@@ -1,0 +1,2 @@
+Equation: 1.0x^2 + -3.0x + 2.0 = 0
+Two real roots: 2.0, 1.0
